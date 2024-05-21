@@ -5,7 +5,7 @@
     <name>KeyForge</name>
   </developer>
   <name>KeyForge Master</name>
-  <summary>Configurator software for KeyForge devices</summary>
+  <summary>Configurator for KeyForge devices</summary>
   <url type="homepage">https://keyforge.tech/</url>
   <url type="help">https://keyforge.tech/setup</url>
 
@@ -54,7 +54,7 @@
 
 
   <description>
-    <p>KeyForge Master configurator is a intuitive software that lets you create custom actions and configurations, turning your KeyForge device into a tailoredproductivity powerhouse.</p>
+    <p>KeyForge Master configurator is a intuitive software that lets you create custom macros and assign predefined shortcuts, turning your KeyForge device into a tailored productivity powerhouse.</p>
     <p>Work smarter, not harder.</p>
 
     <ul>
