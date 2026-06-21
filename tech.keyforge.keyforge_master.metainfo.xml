@@ -37,29 +37,26 @@
 
   <screenshots>
     <screenshot type="default">
-      <caption>Dashboard</caption>
-      <image>https://yybqskjzlxabjtcthvcf.supabase.co/storage/v1/object/public/Flatpak%20releases/screenshots/KeyForge%20Master%20Configurator%201.png</image>
+      <caption>Configure your KeyForge devices, macros and workflows from one app.</caption>
+      <image>https://master.keyforge.tech/assets/screenshots/1.png</image>
     </screenshot>
     <screenshot>
-      <caption>Macropad MK-01 configurator</caption>
-      <image>https://yybqskjzlxabjtcthvcf.supabase.co/storage/v1/object/public/Flatpak%20releases/screenshots/KeyForge%20Master%20Configurator%202.png</image>
+      <caption>Assign shortcuts, layers, and actions to every key and knob.</caption>
+      <image>https://master.keyforge.tech/assets/screenshots/2.png</image>
     </screenshot>
     <screenshot>
-      <caption>Settings panel</caption>
-      <image>https://yybqskjzlxabjtcthvcf.supabase.co/storage/v1/object/public/Flatpak%20releases/screenshots/KeyForge%20Master%20Configurator%203.png</image>
+      <caption>Combine shortcuts, text, and delay blocks into custom action sequences.</caption>
+      <image>https://master.keyforge.tech/assets/screenshots/3.png</image>
     </screenshot>
     <screenshot>
-      <caption>Actions Forge - create custom actions</caption>
-      <image>https://yybqskjzlxabjtcthvcf.supabase.co/storage/v1/object/public/Flatpak%20releases/screenshots/KeyForge%20Master%20Configurator%204.png</image>
+      <caption>Create and manage multiple custom configurations for your device.</caption>
+      <image>https://master.keyforge.tech/assets/screenshots/4.png</image>
     </screenshot>
     <screenshot>
-      <caption>Actions Forge - create custom actions</caption>
-      <image>https://yybqskjzlxabjtcthvcf.supabase.co/storage/v1/object/public/Flatpak%20releases/screenshots/KeyForge%20Master%20Configurator%205.png</image>
+      <caption>Fast, focused, and designed around productivity.</caption>
+      <image>https://master.keyforge.tech/assets/screenshots/5.png</image>
     </screenshot>
-    <screenshot>
-      <caption>Actions list view</caption>
-      <image>https://yybqskjzlxabjtcthvcf.supabase.co/storage/v1/object/public/Flatpak%20releases/screenshots/KeyForge%20Master%20Configurator%206.png</image>
-    </screenshot>
+    
   </screenshots>
 
 
@@ -80,11 +77,12 @@
   </description>
 
   <releases>
-    <release version="v1.1.2" date="2025-11-22">
+    <release version="v2.0.0" date="2026-06-21">
       <description>
         <ul>       
-          <li>Updated app icon</li>
-          <li>Active config overlay - hold the KeyForge device's SuperKey for 3 seconds to display a quick remind about the active config details.</li>
+          <li>New custom action builder - Combine blocks like shotrcuts, text, delays and more to create complex workflows.</li>
+          <li>Smoother firmware update flow</li>
+          <li>Rebuilt the device communication protocol to work with the KeyForge Firmware 2.0</li>
           <li>Overall UI improvements</li>
         </ul>      
       </description>
